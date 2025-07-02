@@ -154,7 +154,7 @@ The time needed varies based on the number and type of samples collected. For a 
 | **Consumable equipment** |
 | Nitril gloves | Powder free nitril gloves | Fisher Scientific | 1 box per size | Can be subsituted with generic nitrile gloves. Does not come sterile, must be sterilized before use (10% bleach followed by 70% EtOH) |
 | Paper towl | paper sheets to wipe material dry | Tork universal | 1 package | Can be substituted with generic |
-| Labels | Content Cell | Content Cell | Content Cell | Content Cell |
+| Labels | labels white, permanent 105 x 48 | Herma premium | Content Cell | Content Cell |
 | Writing utensils | Pencil and permanent marker | Generic | 2 | Not made of wood - must be able to be wiped down with bleach/EtOH |
 | **Chemicals** |
 | 100% molecular grade EtOH | Molecular biology grade ethanol |  |5 L| Can be substituted with generic, must be molecular biology grade |
