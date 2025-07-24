@@ -92,6 +92,7 @@ samp_size_unit: mL
 |eDNA	|environmental DNA |
 |EtOH | Ethanol |
 |PPE | Personal Protective Equipment |
+|m | meter |
 
 ### Glossary
 
