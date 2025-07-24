@@ -156,7 +156,7 @@ The time needed varies based on the number and type of samples collected. For a 
 | Ziplock bags | Plastic bags to store sterile prefilters and to collect used prefilters | Generic | 2 | Can be substituted with generic |
 | Field lab sheet | Paper sheet with sample locations | Generic | 1 | Can be substituted with generic; is used to write down sampling date and volume filtered |
 | **Consumable equipment** |
-| SHIELDskin orange nitrile 260 | Powder free nitril gloves | Novolab | 1 box per size | Can be subsituted with generic nitrile gloves. Does not come sterile, must be sterilized before use (10% bleach followed by 70% EtOH) |
+| SHIELDskin orange nitrile 260 gloves | Powder free nitril gloves | Novolab | 1 box per size | Can be subsituted with generic nitrile gloves. Does not come sterile, must be sterilized before use (10% bleach followed by 70% EtOH) |
 | Paper towl | paper sheets to wipe material dry | Tork universal | 1 package | Can be substituted with generic |
 | Labels | 105 x 48 mm | HERMA premium | 1 package | Can be substituted with generic |
 | Writing utensils | Pencil and permanent marker | Generic | 2 | Not made of wood - must be able to be wiped down with bleach/EtOH |
