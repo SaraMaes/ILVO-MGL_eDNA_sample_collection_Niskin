@@ -165,8 +165,8 @@ The time needed varies based on the number and type of samples collected. For a 
 | Writing utensils | Pencil and permanent marker | Generic | 2 | Not made of wood - must be able to be wiped down with bleach/EtOH |
 | **Chemicals** |
 | Ethanol absolute | Ethanol absolute | AnalytiChem |5 L| Can be substituted with generic, must be molecular biology grade |
-| 70% EtOH | Molecular biology grade ethanol | 500 mL |  |
-| 10% bleach | Hypochlorite bleach | Clorox | 2 L| Remake every ~5 days as bleach decomposes quickly at 10% concentration |
+| Disolol | Disolol Technisolv | AnaytiChem | 5 L | Can be sustituted with generic |
+| 10% bleach | Sodium hypochloride | Clorox | 2 L| Remake every ~5 days as bleach decomposes quickly at 10% concentration |
 
 ## STANDARD OPERATING PROCEDURE
 
