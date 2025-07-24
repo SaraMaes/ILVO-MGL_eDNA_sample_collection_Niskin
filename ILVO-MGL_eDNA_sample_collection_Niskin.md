@@ -90,6 +90,7 @@ samp_size_unit: mL
 |CTD | Conductivity Temperature Depth |
 |DNA	|Deoxyribonucleic acid |
 |eDNA	|environmental DNA |
+|dPCR |digital PCR |
 |EtOH | Ethanol |
 |PPE | Personal Protective Equipment |
 |m | meter |
