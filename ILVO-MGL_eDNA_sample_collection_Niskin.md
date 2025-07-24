@@ -98,6 +98,7 @@ samp_size_unit: mL
 |L| liter |
 |mL | milliliter |
 |mm | millimeter |
+|C |Celsius |
 
 ### Glossary
 
