@@ -92,6 +92,7 @@ samp_size_unit: mL
 |DNA	|Deoxyribonucleic acid |
 |eDNA	|environmental DNA |
 |EtOH | Ethanol |
+|C | celsius|
 
 ### Glossary
 
