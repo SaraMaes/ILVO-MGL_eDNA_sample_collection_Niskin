@@ -88,6 +88,7 @@ samp_size_unit: mL
 | ------------- | ------------- |
 |ILVO | Flanders Research Institute for Agriculture, Fisheries and Food |
 |CTD | Conductivity Temperature Depth |
+|RV | Research vessel |
 |DNA	|Deoxyribonucleic acid |
 |eDNA	|environmental DNA |
 |dPCR |digital PCR |
