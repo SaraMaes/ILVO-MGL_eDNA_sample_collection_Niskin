@@ -115,7 +115,7 @@ This protocol uses Niskin bottles mounted on a CTD rosette onboard a research ve
 
 ### Spatial Coverage and Environment(s) of Relevance
 
-This protocol has been applied for hundreds of samples collected in the southern North Sea. Samples have been collected in the belgian part of the North Sea during spring and autumn campaigns since 2021 at various distances from shore (coastal, transition and offshore locations). This protocol is also applied for surveys in the southern bight of the North Sea (maximum depth 50 m). All samples are taken in the photic zone and are situated in the neritic pelagic zone. 
+This protocol has been applied for hundreds of samples collected in the southern North Sea. Samples have been collected in the Belgian part of the North Sea during spring and autumn campaigns since 2021 at various distances from shore (coastal, transition and offshore locations). This protocol is also applied for surveys in the southern bight of the North Sea (maximum depth 50 m). All samples are taken in the photic zone and are situated in the neritic pelagic zone. 
 
 ## PERSONNEL REQUIRED
 
