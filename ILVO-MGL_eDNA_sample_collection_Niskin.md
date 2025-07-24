@@ -95,6 +95,8 @@ samp_size_unit: mL
 |EtOH | Ethanol |
 |PPE | Personal Protective Equipment |
 |m | meter |
+|L| liter |
+|mL | milliliter |
 |mm | millimeter |
 
 ### Glossary
@@ -152,7 +154,7 @@ The time needed varies based on the number and type of samples collected. For a 
 | Commercial drinking water bottles | 2L Everyday | Colruyt | 5 per cast + 4 for field controls | Can be substituted with similar clean drinking water bottles  |
 | Safety wash bottles | Safety wash bottle 250 ml for 10 % bleach or 70% ethanol | VWR | 2 | Can be substituted with generic |
 | Prefilter mesh | 200µm mesh size | Generic | 5 per cast | Must be sterilized with 10% bleach and sterile MilliQ water |
-| 10L bucket | Plastic, white bucket | Generic | 2 | Can be substituted with generic |
+| 10 L bucket | Plastic, white bucket | Generic | 2 | Can be substituted with generic |
 | PMD bags | Plastic bags to collect the empty water bottles | Generic | 2 | Can be substituted with generic |
 | Ziplock bags | Plastic bags to store sterile prefilters and to collect used prefilters | Generic | 2 | Can be substituted with generic |
 | Field lab sheet | Paper sheet with sample locations | Generic | 1 | Can be substituted with generic; is used to write down sampling date and volume filtered |
@@ -162,7 +164,7 @@ The time needed varies based on the number and type of samples collected. For a 
 | Labels | 105 x 48 mm | HERMA premium | 1 package | Can be substituted with generic |
 | Writing utensils | Pencil and permanent marker | Generic | 2 | Not made of wood - must be able to be wiped down with bleach/EtOH |
 | **Chemicals** |
-| 100% molecular grade EtOH | Molecular biology grade ethanol |  |5 L| Can be substituted with generic, must be molecular biology grade |
+| Ethanol absolute | Ethanol absolute | AnalytiChem |5 L| Can be substituted with generic, must be molecular biology grade |
 | 70% EtOH | Molecular biology grade ethanol | 500 mL |  |
 | 10% bleach | Hypochlorite bleach | Clorox | 2 L| Remake every ~5 days as bleach decomposes quickly at 10% concentration |
 
