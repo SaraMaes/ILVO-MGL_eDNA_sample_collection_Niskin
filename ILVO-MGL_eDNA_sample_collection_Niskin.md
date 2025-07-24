@@ -166,7 +166,7 @@ The time needed varies based on the number and type of samples collected. For a 
 | **Chemicals** |
 | Ethanol absolute | Ethanol absolute | AnalytiChem |5 L| Can be substituted with generic, must be molecular biology grade |
 | Disolol | Disolol Technisolv | AnaytiChem | 5 L | Can be sustituted with generic |
-| 10% bleach | Sodium hypochloride | Clorox | 2 L| Remake every ~5 days as bleach decomposes quickly at 10% concentration |
+| 10% bleach | Sodium hypochloride | Colruyt | 2 L| Remake every ~5 days as bleach decomposes quickly at 10% concentration |
 
 ## STANDARD OPERATING PROCEDURE
 
