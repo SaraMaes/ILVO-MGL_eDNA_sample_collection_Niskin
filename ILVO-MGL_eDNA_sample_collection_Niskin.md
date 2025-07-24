@@ -93,6 +93,7 @@ samp_size_unit: mL
 |EtOH | Ethanol |
 |PPE | Personal Protective Equipment |
 |m | meter |
+|mm | millimeter |
 
 ### Glossary
 
