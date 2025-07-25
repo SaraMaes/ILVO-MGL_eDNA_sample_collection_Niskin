@@ -174,9 +174,32 @@ The time needed varies based on the number and type of samples collected. For a 
 
 ### Preparation
 **before embarking**
-Prefilter sterilization: 
-Preprinted labels: 
-Digital cruise report file:
+Prefilter sterilization: 10cm*10cm prefilters are cut from a 200 µm mesh sheet and are used to filter out big pieces of organic material from the seawater to prevent overrepresentation in the eDNA samples. The prefilters are re-used between campaigns. They are washed under tap water to remove the obvious dirth in the filter. After that, filters are submerged in 10% bleach and in sterilised Milli-Q water.
+
+1. Add 800 ml Milli-Q water to four 1L Duran glass bottles and sterilise by placing the bottles in the autoclave for 15 minutes at 121°C
+2. Clean the work surface of the LAF cabinet with 10% bleach and 70% ethanol.
+3. Clean 5 washing trays with 10% bleach and sterile Milli-Q water and wipe dry with paper in the LAF cabinet; put the five trays next to each other in the LAF cabinet.
+4. Swith on the UV light for 30 minutes
+5. Switch on the laminar flow, and fill two washing trays with 10% bleach and three with sterile Milli-Q water; keep the 5 trays in the LAF cabinet to avoid any contamination.
+6. Take the prefilters and rinse both sides under running tap water to remove the obvious dirth that is on the filter. Batches of 26 filters are optimal for the trays.
+------------------------------------------------------------------------------------------------
+*Optional, and recommended if filters are re-used between campaigns,* is the use of a stomacher device to remove dirth from the filters. Follow steps 7-9 to ensure dirth in the filters is removed (this part is outside the LAF cabinet); if you use the filters for the first time or visible dirth is absent, you can immediately go to step 10;
+
+7.  Place 26 pre-filters in a stomacher plastic bag, and remove excess water from the stomacher bag.
+8.  Add 10% bleach to the stomacher bag (not to full). Press out as much air as possible and close the top of the bag by folding. Leave enough empty space for the bleach to move around when the paddles work or else the bag wil overflow or rip.
+9.  Stomacher for 90 seconds or longer to make sure the bleach passes through all the pores.
+------------------------------------------------------------------------------------------------  
+10.  In the LAF cabinet, take the filters one by one and place them in the first bleach bath and flip the filter a couple of times to expose both sides to the bleach, then transfer to the second bleach bath. Release the filter to ensure the full surface is in contact with the bleach for a few minutes.
+11.  Transfer the filter in the first water bath and leave it there until all 26 filters are processed.
+12.  Transfer the filters two the second water bath and then to the third water bath. In this way, the bleach gets removed from the filters.
+13.  When all 26 filters are in the last water bath, pour away the water and replace with sterile Milli-Q water to ensure all bleach is completely removed.
+14.  Place all the filters in a ziplock bag, remove excess water and close the bag.
+15.  Write the date of cleaning and the number of filters inside the bag with a permanent marker on the bag.
+16.  Place the bag under UV for 20 minutes. The filters are now ready for transport or storage until use.
+
+Preprinted labels: Each 2L commercial drinking water bottle is labelled with a sticker that contains the name of the station and the replicate number (eg ft120_1). The stations and number of replicate samples (Niskin bottles) is usually known before embarking, the stickers are therefore preprinted. Blanc stickers are also provided in case the smpling scheme deviates from the orgincal plan. 
+
+Digital cruise report file:during the cruise, a word document is kept that records the activities per day. In addtion, the metadata of the samples needs to be added in the ILVO-MGL_eDNA_sample_collection_MIMARKS.survey.water.6.0_template.xlsx to ensure all relevant metadata fields are filled in. This file can then directly be used for upload to Biosamples in NCBI.
 
 **Immediately before sampling**
 
@@ -213,15 +236,15 @@ A field blank is taken at the start and end of each campaign to assess possible 
 
 ## REFERENCES
 
-- Insert all references cited in the document.
-- Please insert full DOI address when available, e.g. http://doi.dx.org/10.1007/s11258-014-0404-1.
-
-Dukan et al. 2024
+Dukan, N., Cornelis, I., Maes, S., Hostens, K., De Backer, A., Derycke, S. Vertical and horizontal environmental DNA (eDNA) patterns of fish in a shallow and well-mixed North Sea area. Sci Rep 14, 16748 (2024). https://doi.org/10.1038/s41598-024-66912-2
 
 ## APPENDIX A: DATASHEETS
 
 Link templates (e.g. preformatted spreadsheets) used to record measurements and report on the quality of the data as well as any documents such as manufacturer specifications, images, etc that support this protocol. Please include a short note describing the document's relevance. 
 
 Cruise report template
+Sample metadata template: [ILVO-MGL_eDNA_sample_collection_MIMARKS.survey.water.6.0_template.xlsx](https://github.com/sofiederycke/ILVO-MGL_eDNA_sample_collection_Niskin/blob/main/ILVO-MGL_eDNA_sample_collection_MIMARKS.survey.water.6.0_template.xlsx)
+
+
 Sticker template
 manual for CTD software
