@@ -154,7 +154,8 @@ The time needed varies based on the number and type of samples collected. For a 
 | **Durable equipment** |
 | Commercial drinking water bottles | 2 L Everyday | Colruyt | 5 per cast + 4 for field controls | Can be substituted with similar clean drinking water bottles  |
 | Safety wash bottles | Safety wash bottle 250 ml for 10 % bleach or 70% ethanol | VWR | 2 | Can be substituted with generic |
-| Prefilter mesh | 200µm mesh size | Generic | 5 per cast | Must be sterilized with 10% bleach and sterile MilliQ water |
+| Prefilter mesh | 200µm mesh size | Sefar | 5 per cast | Must be sterilized with 10% bleach and sterile MilliQ water |
+| Stacking tray | 1 L tray | Generic | 3 |
 | 10 L bucket | Plastic, white bucket | Generic | 2 | Can be substituted with generic |
 | PMD bags | Plastic bags to collect the empty water bottles | Generic | 2 | Can be substituted with generic |
 | Ziplock bags | Plastic bags to store sterile prefilters and to collect used prefilters | Generic | 2 | Can be substituted with generic |
