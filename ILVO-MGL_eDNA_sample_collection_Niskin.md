@@ -156,6 +156,8 @@ The time needed varies based on the number and type of samples collected. For a 
 | Safety wash bottles | Safety wash bottle 250 ml for 10 % bleach or 70% ethanol | VWR | 2 | Can be substituted with generic |
 | Prefilter mesh | 200µm mesh size | Sefar | 5 per cast | Must be sterilized with 10% bleach and sterile MilliQ water |
 | Stacking tray | 1 L tray | Generic | 3 |
+| Stomacher bags | blenderbag | Interscience | 1 per batch of 26 prefilters | optional, only if Stomacher decive is used to clean the prefilters |
+| Glass bottle | Duran 1 liter bottle | Duran | 4 | Can be substituted with generic, recipient needs to  withstand autoclave procedure |
 | 10 L bucket | Plastic, white bucket | Generic | 2 | Can be substituted with generic |
 | PMD bags | Plastic bags to collect the empty water bottles | Generic | 2 | Can be substituted with generic |
 | Ziplock bags | Plastic bags to store sterile prefilters and to collect used prefilters | Generic | 2 | Can be substituted with generic |
@@ -169,6 +171,7 @@ The time needed varies based on the number and type of samples collected. For a 
 | Ethanol absolute | Ethanol absolute | AnalytiChem |5 L| Can be substituted with generic, must be molecular biology grade |
 | Disolol | Disolol Technisolv | AnalytiChem | 5 L | Can be sustituted with generic |
 | 10% bleach | Sodium hypochloride | Colruyt | 2 L| Remake every ~5 days as bleach decomposes quickly at 10% concentration |
+| Milli-Q water | Sartorius | Sartorius arium device |
 
 ## STANDARD OPERATING PROCEDURE
 
