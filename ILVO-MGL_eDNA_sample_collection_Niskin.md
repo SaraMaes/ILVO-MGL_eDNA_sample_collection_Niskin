@@ -131,7 +131,7 @@ One technician or scientist with experience in sterile and clean working and wit
 
 ### Safety
 
-This protocol does not involve any hazardous chemicals, although standard precautions including wearing PPE should be taken to avoid skin and eye exposure to bleach and ethanol.
+(This protocol does not involve any hazardous chemicals) is hazardous although standard precautions including wearing PPE should be taken to avoid skin and eye exposure to bleach and ethanol. 10 % bleach is hazardous
 
 ### Training Requirements
 
@@ -170,7 +170,7 @@ The time needed varies based on the number and type of samples collected. For a 
 | **Chemicals** |
 | Ethanol absolute | Ethanol absolute | AnalytiChem |5 L| Can be substituted with generic, must be molecular biology grade |
 | Disolol | Disolol Technisolv | AnalytiChem | 5 L | Can be sustituted with generic |
-| 10% bleach | Sodium hypochloride | Colruyt | 2 L| Remake every ~5 days as bleach decomposes quickly at 10% concentration |
+| 10% bleach | Sodium hypochloride | Colruyt | 2 L | Remake every ~5 days as bleach decomposes quickly at 10% concentration |
 | Milli-Q water | Sartorius | Sartorius arium device |
 
 ## STANDARD OPERATING PROCEDURE
@@ -206,23 +206,25 @@ Digital cruise report file:during the cruise, a word document is kept that recor
 
 **Immediately before sampling**
 
-Glove Sterilization: Sterile nitrile gloves must be worn at all times during the sterilization, sampling, filtering, preservation and storage steps. Gloves directly from the box are not considered sterile. To sterilize, put on a new pair of gloves, squirt 10% bleach solution from a wash bottle onto the gloves and rub hands together, then squirt with EtOH to get rid of bleach residue.  
+Wear new gloves on every location. Keep in mind not to touch your face ed with them. In case you do, change gloves immediately
 
 ### Sampling
 
 This protocol is designed for samples collected with a niskin bottle - the samples are expected to be discrete and to be sealed masses of water that can be transferred to a 2 L commercial plastic drinking water bottle without contamination (typically from the spout/spigot of the niskin bottle). For our samples, niskin bottles are remotely triggered to close at a specified depth and collected alongside complementary hydrographic data (using a CTD attached to the niskin sampling rosette). 
 
-1. Use new gloves for each location and clean them with 10% bleach and 70% ethanol.
-2. Stick the pre-printed labels onto the side of the bottles and write down the location and date on the bottle itself with the marker (sometimes, when the bottles are kept in the freezer and then thawn, the sticker gets loose, so additional writing on the bottle ensures the sample info will not be lost).    
-3. Niskin bottles: open six bottles at the top and ensure the rosette is balanced (choose three bottles in front of each other), close the bottom stopper and close the faucet
-4. Pour 2 L drinking water in each Niskin bottle and immediately close the empty plastic drinking water bottle; open the faucet of the Niskin bottle to flush it with the drinking water; afterwards, open the bottom stopper to remove the remaining drinking water from the Niskin. This flushing with drinking water does not sterilize the Niskin bottles, but we have the water anyway, so we may as well use it to clean the Niskin bottles a bit.
-5. The top and bottom stoppers of the Niskin bottles should be open before deployment of the rosette. 
-6. Lower the Niskin rosette subsurface and submerge for three minutes to calibrate the CTD. During these three minutes, the open Niskin bottles are flushed with local seawater, ensuring that any carry-over DNA from the previous location is washed away.
-7. After the three minutes, lower the rosette to the desired depth (1 to 3 m above the seafloor) and close the six Niskin bottles. It is important not to hit the floor to avoid upwelling of sediment and damage the CTD. Note down in the campaign report if the CTD touched the seafloor!  
-8. Bring the rosette back onboard of the vessel.
-9. Immediately subsample the Niskin bottles: open the spauget and let water flow for a few seconds to wash away any residual DNA in the spauget; then fill one empty 2 L plastic bottle with 2 L of seawater from one Niskin bottle using a sterile pre-filter.
-10. Close the 2L bottle and put the prefilter in a ziplock bag (all prefilters can be reused after sterilisation with bleach and sterile milliQ water)
-11. Repeat this for four other Niskin bottles to reach a total of five 2 L plastic drinking water bottles filled with seawater.
+1. Use new gloves on every location. 
+2. Stick the pre-printed labels onto the side of the bottles and write down the location and date on the bottle itself with the marker (sometimes, when the bottles are kept in the freezer and then thawn, the sticker gets loose, so additional writing on the bottle ensures the sample info will not be lost). 
+3. The negative field controls Niskin were taken just before sampling. Rinse one bottle like you would do before sampling, close the Niskin bottle at the bottom and fill it with one bottle of commercial drinking water. Then collect the water from the Niskin bottle in the empty bottle. The Niskin Carrousel is now ready for sampling as there is no need to rinse the Niskin bottle again. The sample can then be collected from the bottle that was used to rinse the Niskin bottle. 
+5. Niskin bottles: open six bottles at the top and ensure the rosette is balanced (choose three bottles in front of each other), close the bottom stopper and close the faucet
+6. Pour 2 L drinking water in each Niskin bottle and immediately close the empty plastic drinking water bottle; open the faucet of the Niskin bottle to flush it with the drinking water; afterwards, open the bottom stopper to remove the remaining drinking water from the Niskin. This flushing with drinking water does not sterilize the Niskin bottles, but we have the water anyway, so we may as well use it to clean the Niskin bottles a bit.
+7. The top and bottom stoppers of the Niskin bottles should be open before deployment of the rosette. 
+8. Lower the Niskin rosette subsurface and submerge for three minutes to calibrate the CTD. During these three minutes, the open Niskin bottles are flushed with local seawater, ensuring that any carry-over DNA from the previous location is washed away.
+9. After the three minutes, lower the rosette to the desired depth (1 to 3 m above the seafloor) and close the six Niskin bottles. It is important not to hit the floor to avoid upwelling of sediment and damage the CTD. Note down in the campaign report if the CTD touched the seafloor!  
+10. Bring the rosette back onboard of the vessel.
+11. Immediately subsample the Niskin bottles: open the spauget and let water flow for a few seconds to wash away any residual DNA in the spauget; then fill one empty 2 L plastic bottle with 2 L of seawater from one Niskin bottle using a sterile pre-filter.
+12. Close the 2L bottle and put the prefilter in a ziplock bag (all prefilters can be reused after sterilisation with bleach and sterile milliQ water)
+13. Repeat this for four other Niskin bottles to reach a total of five 2 L plastic drinking water bottles filled with seawater.
+14. Place the 5 saewater bottles on the table (white background) and take a picture of the waterbottles. Upload those pictures in the campaign report.
 
 ### Storage
 
