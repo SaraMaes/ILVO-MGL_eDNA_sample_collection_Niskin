@@ -164,7 +164,7 @@ The time needed varies based on the number and type of samples collected. For a 
 | 100% molecular grade EtOH | Molecular biology grade ethanol |  |5 L| Can be substituted with generic, must be molecular biology grade |
 | 70% EtOH | Molecular biology grade ethanol | 500 mL |  |
 | 10% bleach | Hypochlorite bleach | Clorox | 2 L| Remake every ~5 days as bleach decomposes quickly at 10% concentration |
-| Milli-Q water | => Sara, info toevoegen
+| Milli-Q water | 
 
 ## STANDARD OPERATING PROCEDURE
 
